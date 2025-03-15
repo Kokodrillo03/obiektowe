@@ -1,0 +1,5 @@
+public enum Promotions {
+    TEN_PERCENT_OFF,
+    THIRD_PRODUCT_1_ZL,
+    SECOND_SAME_PRODUCT_HALF_PRICE
+}
